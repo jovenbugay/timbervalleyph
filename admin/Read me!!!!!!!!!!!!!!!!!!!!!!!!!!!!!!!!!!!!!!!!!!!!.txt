@@ -1,0 +1,16 @@
+
+====HR HEAD LOGIN===(Super Admin)
+
+email: hrhead@gmail.com
+pass: hrhead@123
+
+====HR OFFICER LOGIN=====
+
+email: hrofficer@gmail.com
+pass: hrofficer@123
+
+
+====HR ASSISTANT LOGIN=====
+
+email: hrassistant@gmail.com
+pass: hrassistant@123

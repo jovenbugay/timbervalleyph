@@ -1,0 +1,4 @@
+[03-Nov-2021 15:58:25 UTC] PHP Notice:  Undefined index: ordernumber in /home/u911304685/domains/timbervalleyph.com/public_html/customer/functions/getcartdetails.php on line 20
+[03-Nov-2021 15:58:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/u911304685/domains/timbervalleyph.com/public_html/customer/functions/getcartdetails.php on line 33
+[03-Nov-2021 15:58:25 UTC] PHP Notice:  Undefined index: ordernumber in /home/u911304685/domains/timbervalleyph.com/public_html/customer/functions/getcartdetails.php on line 20
+[03-Nov-2021 15:58:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/u911304685/domains/timbervalleyph.com/public_html/customer/functions/getcartdetails.php on line 33
